@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Basic Cleaning",
+    "cost": 20
+  },
+  {
+    "name": "Advanced Cleaning",
+    "cost": 40
+  },
+  {
+    "name": "Deep Cleaning",
+    "cost": 60
+  }
+]
